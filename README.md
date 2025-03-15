@@ -12,13 +12,13 @@ This is a simple "Secret Santa" project that allows you to add friends' names, l
 ## Screenshots
 
 ### Home Screen
-![Home Screen](assets/tela_inicial.png)
+![Home Screen](assets/InitialScreen.png)
 
 ### Adding Friends
-![Adding Friends](assets/adicionando_amigos.png)
+![Adding Friends](assets/AddingFriends.png)
 
 ### Secret Santa Draw
-![Secret Santa Draw](assets/sorteio_amigo_secreto.png)
+![Secret Santa Draw](assets/SecretSantaDraw.png)
 
 ## How to Use
 
