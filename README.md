@@ -9,8 +9,6 @@ This is a simple "Secret Santa" project that allows you to add friends' names, l
 - **Draw Secret Santa**: Draws a Secret Santa from the added names.
 - **Reset**: Resets the friends list and the draw result.
 
-## Screenshots
-
 ### Home Screen
 ![Home Screen](assets/InitialScreen.png)
 
