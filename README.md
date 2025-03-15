@@ -1,1 +1,1 @@
-# ORACLE_secret-santa-challenge
+# ORACLE-SecretSantaChallenge
